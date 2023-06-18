@@ -4,15 +4,15 @@ import styles from "./PromoText.module.css";
 const PromoText = () => {
   return (
     <section className={styles["promo-text"]}>
-      <h2>Онлайн Суши Ресторан Япона Кухня</h2>
+      <h2>Online Burger Joint: Burger Hub</h2>
       <p>
-        Япона Кухня - это онлайн суши-ресторан, в котором любимые суши и сашими,
-        роллы и другие блюда национальной японской кухни делает команда
-        профессиональных поваров.
+        "Burger Hub" is an online burger restaurant where a team of professional
+        chefs prepares your favorite burgers.
       </p>
       <p>
-        Быстрая работа и качественная продукция, а также самые настоящие
-        компоненты придают хороший вкус блюдам, дарят наслаждение от трапезы.
+        Fast work and high-quality ingredients, along with genuine components,
+        give a delicious taste to the dishes and provide a delightful dining
+        experience.
       </p>
     </section>
   );
